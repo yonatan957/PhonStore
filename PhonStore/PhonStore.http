@@ -1,0 +1,6 @@
+@PhonStore_HostAddress = http://localhost:5071
+
+GET {{PhonStore_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
